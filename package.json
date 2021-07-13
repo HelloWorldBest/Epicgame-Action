@@ -56,6 +56,6 @@
         "check-update-github": "^0.0.4",
         "colors": "^1.4.0",
         "epicgames-client": "Revadike/node-epicgames-client#develop",
-        "tracer": "^1.0.3"
+        "tracer": "^1.1.5"
     }
 }
